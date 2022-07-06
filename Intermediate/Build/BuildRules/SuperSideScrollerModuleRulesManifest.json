@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\valofe\\Documents\\Unreal Projects\\SuperSideScroller\\Source\\SuperSideScroller\\SuperSideScroller.Build.cs",
+		"C:\\Users\\valofe\\Documents\\Unreal Projects\\SuperSideScroller\\Source\\SuperSideScroller.Target.cs",
+		"C:\\Users\\valofe\\Documents\\Unreal Projects\\SuperSideScroller\\Source\\SuperSideScrollerEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

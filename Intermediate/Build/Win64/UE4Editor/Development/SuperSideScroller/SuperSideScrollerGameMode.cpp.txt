@@ -1,0 +1,15 @@
+C:\Users\valofe\Documents\Unreal Projects\SuperSideScroller\Intermediate\Build\Win64\UE4Editor\Development\SuperSideScroller\Definitions.SuperSideScroller.h
+c:\users\valofe\documents\unreal projects\supersidescroller\source\supersidescroller\SuperSideScrollerGameMode.h
+E:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+E:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+E:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+E:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\valofe\Documents\Unreal Projects\SuperSideScroller\Intermediate\Build\Win64\UE4Editor\Inc\SuperSideScroller\SuperSideScrollerGameMode.generated.h
+c:\users\valofe\documents\unreal projects\supersidescroller\source\supersidescroller\SuperSideScrollerCharacter.h
+E:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+E:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+E:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+E:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+E:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+E:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Users\valofe\Documents\Unreal Projects\SuperSideScroller\Intermediate\Build\Win64\UE4Editor\Inc\SuperSideScroller\SuperSideScrollerCharacter.generated.h

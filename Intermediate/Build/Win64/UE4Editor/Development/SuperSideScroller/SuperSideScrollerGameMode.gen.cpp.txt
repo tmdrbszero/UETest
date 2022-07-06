@@ -1,0 +1,9 @@
+C:\Users\valofe\Documents\Unreal Projects\SuperSideScroller\Intermediate\Build\Win64\UE4Editor\Development\SuperSideScroller\Definitions.SuperSideScroller.h
+E:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+E:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\valofe\Documents\Unreal Projects\SuperSideScroller\Source\SuperSideScroller/SuperSideScrollerGameMode.h
+E:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+E:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+E:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+E:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+c:\users\valofe\documents\unreal projects\supersidescroller\intermediate\build\win64\ue4editor\inc\supersidescroller\SuperSideScrollerGameMode.generated.h

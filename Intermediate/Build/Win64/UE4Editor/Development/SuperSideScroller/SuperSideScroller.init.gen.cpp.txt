@@ -1,0 +1,3 @@
+C:\Users\valofe\Documents\Unreal Projects\SuperSideScroller\Intermediate\Build\Win64\UE4Editor\Development\SuperSideScroller\Definitions.SuperSideScroller.h
+E:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+E:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

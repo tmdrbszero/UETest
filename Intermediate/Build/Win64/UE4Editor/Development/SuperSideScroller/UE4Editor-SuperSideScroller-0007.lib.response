@@ -1,0 +1,19 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SuperSideScroller-0007.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\valofe\Documents\Unreal Projects\SuperSideScroller\Intermediate\Build\Win64\SuperSideScrollerEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\valofe\Documents\Unreal Projects\SuperSideScroller\Intermediate\Build\Win64\UE4Editor\Development\SuperSideScroller\SuperSideScroller.cpp.obj"
+"C:\Users\valofe\Documents\Unreal Projects\SuperSideScroller\Intermediate\Build\Win64\UE4Editor\Development\SuperSideScroller\SuperSideScrollerCharacter.cpp.obj"
+"C:\Users\valofe\Documents\Unreal Projects\SuperSideScroller\Intermediate\Build\Win64\UE4Editor\Development\SuperSideScroller\SuperSideScrollerGameMode.cpp.obj"
+"C:\Users\valofe\Documents\Unreal Projects\SuperSideScroller\Intermediate\Build\Win64\UE4Editor\Development\SuperSideScroller\SuperSideScroller_Player.cpp.obj"
+"C:\Users\valofe\Documents\Unreal Projects\SuperSideScroller\Intermediate\Build\Win64\UE4Editor\Development\SuperSideScroller\SuperSideScroller.init.gen.cpp.obj"
+"C:\Users\valofe\Documents\Unreal Projects\SuperSideScroller\Intermediate\Build\Win64\UE4Editor\Development\SuperSideScroller\SuperSideScrollerCharacter.gen.cpp.obj"
+"C:\Users\valofe\Documents\Unreal Projects\SuperSideScroller\Intermediate\Build\Win64\UE4Editor\Development\SuperSideScroller\SuperSideScrollerGameMode.gen.cpp.obj"
+"C:\Users\valofe\Documents\Unreal Projects\SuperSideScroller\Intermediate\Build\Win64\UE4Editor\Development\SuperSideScroller\SuperSideScroller_Player.gen.cpp.obj"
+"C:\Users\valofe\Documents\Unreal Projects\SuperSideScroller\Intermediate\Build\Win64\UE4Editor\Development\SuperSideScroller\Default.rc2.res"
+/OUT:"C:\Users\valofe\Documents\Unreal Projects\SuperSideScroller\Intermediate\Build\Win64\UE4Editor\Development\SuperSideScroller\UE4Editor-SuperSideScroller-0007.lib"

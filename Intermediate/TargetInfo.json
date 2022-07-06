@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SuperSideScroller",
+			"Path": "C:\\Users\\valofe\\Documents\\Unreal Projects\\SuperSideScroller\\Source\\SuperSideScroller.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SuperSideScrollerEditor",
+			"Path": "C:\\Users\\valofe\\Documents\\Unreal Projects\\SuperSideScroller\\Source\\SuperSideScrollerEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

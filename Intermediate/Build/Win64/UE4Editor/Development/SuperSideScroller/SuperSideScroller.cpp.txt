@@ -1,0 +1,2 @@
+C:\Users\valofe\Documents\Unreal Projects\SuperSideScroller\Intermediate\Build\Win64\UE4Editor\Development\SuperSideScroller\Definitions.SuperSideScroller.h
+c:\users\valofe\documents\unreal projects\supersidescroller\source\supersidescroller\SuperSideScroller.h
