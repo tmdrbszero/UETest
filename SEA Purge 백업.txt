@@ -1,0 +1,2 @@
+https://openapi.kr.cdnetworks.com/purge/rest/doPurge
+user=cjw@valofe.com&pass=!qpffhvm123&pad=ica-sea-cdn.valofe.com&type=wildcard&output=json&path=/LiveValofePatcher/*
